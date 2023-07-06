@@ -31,6 +31,6 @@ Resolução do trabalho elaborado pelo professor Ricardo Petri
 
 
 
-Davi Giovani
+Código operado por Davi Giovani
 
   
