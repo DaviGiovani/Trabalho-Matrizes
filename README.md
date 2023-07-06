@@ -1,5 +1,5 @@
 # Lista de compras em Java
-Resolução do trabalho elaborado pelo professor Ricardo Petri
+Resolução do trabalho elaborado pelo professor Ricardo Petri 
 
 
 ## Implementações do código:
@@ -26,3 +26,9 @@ Resolução do trabalho elaborado pelo professor Ricardo Petri
 - ### Copiar lista de compras para a área de tranferência: 
 
   O sistema copia toda a lista de compra e envia para a área de tranferência do dispositivo do usuário.
+
+
+
+Davi Giovani
+
+  
