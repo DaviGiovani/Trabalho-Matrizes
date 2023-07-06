@@ -30,7 +30,6 @@ Resolução do trabalho elaborado pelo professor Ricardo Petri
 
 
 
-
 Código operado por Davi Giovani
 
   
